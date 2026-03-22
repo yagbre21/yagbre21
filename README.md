@@ -18,4 +18,4 @@ Product leader who builds the decisioning systems that connect content, offers, 
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/yagbre) | [ConvoRecs](https://convorecs.ai) | yagbre@gmail.com
+[LinkedIn](https://www.linkedin.com/in/yagbre) | [ConvoRecs](https://convorecs.ai)
