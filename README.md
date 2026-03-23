@@ -16,6 +16,8 @@ I build decisioning systems that connect content, offers, and recommendations to
 
 **Plant Image Classification** - EfficientNetB0 (89.7% accuracy) vs MobileNet (79.2%) on 35 edible plant species using transfer learning. Harvard CSCI E-25. [Repo](https://github.com/yagbre21/Computer-Vision)
 
+**SnapEats** - Multimodal nutrition label analyzer using Gemini Vision API. Google AI Hackathon finalist, top 25 of 898 submissions. [Repo](https://github.com/yagbre21/snapeats-google-ai-hackathon) | [Demo](https://www.youtube.com/watch?v=vUXIyA2wPX8)
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/yagbre) | [ConvoRecs](https://convorecs.ai)
