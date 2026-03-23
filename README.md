@@ -1,6 +1,6 @@
 # Hi, I'm Yves
 
-I build decisioning systems that connect content, offers, and recommendations to the right users at scale.
+I ship products that connect content, offers, and recommendations to the right users at scale.
 
 10+ years shipping products at Amazon, Disney, Paramount, and Macy's. Content discovery serving 8M+ users, CTV ad targeting ($25M), credit offer personalization (16% CTR, 2x baseline). CS degree from Rutgers, ML training at Harvard (Computer Vision, Data Mining).
 
@@ -16,7 +16,7 @@ I build decisioning systems that connect content, offers, and recommendations to
 
 **Plant Image Classification** - EfficientNetB0 (89.7% accuracy) vs MobileNet (79.2%) on 35 edible plant species using transfer learning. Harvard CSCI E-25. [Repo](https://github.com/yagbre21/Computer-Vision)
 
-**SnapEats** - Multimodal nutrition label analyzer using Gemini Vision API. Google AI Hackathon finalist, top 25 of 898 submissions. [Repo](https://github.com/yagbre21/snapeats-google-ai-hackathon) | [Demo](https://www.youtube.com/watch?v=vUXIyA2wPX8)
+**SnapEats** - AI nutrition label analyzer. Point your phone camera at any food package and get a plain-language breakdown of ingredients and nutrition facts. Google AI Hackathon finalist. [Repo](https://github.com/yagbre21/snapeats-google-ai-hackathon) | [Demo](https://www.youtube.com/watch?v=vUXIyA2wPX8)
 
 ## Connect
 
