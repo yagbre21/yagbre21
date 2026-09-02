@@ -6,9 +6,9 @@ I ship products that connect content, offers, and recommendations to the right u
 
 ## What I'm Building
 
-**[Sugoi](https://sugoi.convorecs.ai)** - Conversational anime recommendation engine. Multi-model LLM orchestration with intent routing and 4-tier caching. 68.8% API cost reduction through semantic response caching.
+**[Sugoi](https://sugoi.convorecs.ai)** - Conversational anime recommendation engine. Tiered model architecture with intent routing and response caching. Every suggestion is grounded in the catalog.
 
-**[Arbiter](https://arbiter.convorecs.ai)** - 11-agent job search system. Conservative and optimistic evaluators debate your career level, reach consensus, then find jobs calibrated to that level. Built with Google ADK and A2A Protocol.
+**[Arbiter](https://arbiter.convorecs.ai)** - 22-agent job search system. Conservative and optimistic evaluators debate your career level, reach consensus, then find jobs calibrated to that level. Built with Google ADK and A2A Protocol.
 
 ## What I've Trained
 
@@ -16,7 +16,7 @@ I ship products that connect content, offers, and recommendations to the right u
 
 **Plant Image Classification** - EfficientNetB0 (89.7% accuracy) vs MobileNet (79.2%) on 35 edible plant species using transfer learning. Harvard CSCI E-25. [Repo](https://github.com/yagbre21/Computer-Vision)
 
-**SnapEats** - AI nutrition label analyzer. Point your phone camera at any food package and get a plain-language breakdown of ingredients and nutrition facts. Google AI Hackathon finalist. [Repo](https://github.com/yagbre21/snapeats-google-ai-hackathon) | [Demo](https://www.youtube.com/watch?v=vUXIyA2wPX8)
+**SnapEats** - AI nutrition label analyzer. Point your phone camera at any food package and get a plain-language breakdown of ingredients and nutrition facts. Top 25 of 898 in the Google AI Hackathon. [Repo](https://github.com/yagbre21/snapeats-google-ai-hackathon) | [Demo](https://www.youtube.com/watch?v=vUXIyA2wPX8)
 
 ## Connect
 
